@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.Red{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 0, 0);
+}
+.Quadrados{
+    display: flex;
+    gap:30px;
+}
+.Red2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+}

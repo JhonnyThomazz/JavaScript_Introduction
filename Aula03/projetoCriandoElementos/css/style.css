@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.style{
+    background-color: purple;
+    padding: 30px;
+    margin: 10px;
+    color:aliceblue; 
+    text-align: center;   
+}
+
+.darkMode{
+    background-color: black;
+    color:aliceblue;
+}
+
+.dark{
+    background-color: black;
+    color: rgb(148, 7, 148);
+}
+.light{
+    background-color: rgb(235, 219, 197);
+    color: black;
+}
